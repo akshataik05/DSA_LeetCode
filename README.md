@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
