@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/0001-two-sum) |
 | [1006-vowel-spellchecker](https://github.com/akshataik05/DSA_LeetCode/tree/master/1006-vowel-spellchecker) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
+## Math
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
