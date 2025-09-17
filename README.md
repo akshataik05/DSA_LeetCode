@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/0001-two-sum) |
 | [1006-vowel-spellchecker](https://github.com/akshataik05/DSA_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/0001-two-sum) |
 | [1006-vowel-spellchecker](https://github.com/akshataik05/DSA_LeetCode/tree/master/1006-vowel-spellchecker) |
+| [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/akshataik05/DSA_LeetCode/tree/master/0038-count-and-say) |
 | [1006-vowel-spellchecker](https://github.com/akshataik05/DSA_LeetCode/tree/master/1006-vowel-spellchecker) |
+| [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
