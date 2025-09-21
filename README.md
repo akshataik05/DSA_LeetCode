@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/akshataik05/DSA_LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/akshataik05/DSA_LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
@@ -108,9 +109,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/akshataik05/DSA_LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/akshataik05/DSA_LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/akshataik05/DSA_LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/akshataik05/DSA_LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
