@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0120-triangle) |
+| [0806-domino-and-tromino-tiling](https://github.com/akshataik05/DSA_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
 ## Tree
