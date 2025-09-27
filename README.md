@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
