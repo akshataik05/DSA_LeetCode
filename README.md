@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/akshataik05/DSA_LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshataik05/DSA_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/akshataik05/DSA_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshataik05/DSA_LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
 | ------- |
@@ -191,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/akshataik05/DSA_LeetCode/tree/master/0830-largest-triangle-area) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
