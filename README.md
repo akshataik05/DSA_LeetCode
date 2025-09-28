@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/akshataik05/DSA_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/akshataik05/DSA_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshataik05/DSA_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -207,4 +210,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
