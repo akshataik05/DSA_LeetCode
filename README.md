@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshataik05/DSA_LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshataik05/DSA_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/akshataik05/DSA_LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/akshataik05/DSA_LeetCode/tree/master/3678-design-task-manager) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshataik05/DSA_LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
