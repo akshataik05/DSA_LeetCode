@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/akshataik05/DSA_LeetCode/tree/master/0135-candy) |
+| [0407-trapping-rain-water-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/akshataik05/DSA_LeetCode/tree/master/0830-largest-triangle-area) |
 | [0945-snakes-and-ladders](https://github.com/akshataik05/DSA_LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/akshataik05/DSA_LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/akshataik05/DSA_LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
 ## Queue
