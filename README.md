@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/akshataik05/DSA_LeetCode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/akshataik05/DSA_LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
