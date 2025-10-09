@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/akshataik05/DSA_LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/akshataik05/DSA_LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/akshataik05/DSA_LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/akshataik05/DSA_LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3336-water-bottles-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/akshataik05/DSA_LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Geometry
 |  |
 | ------- |
