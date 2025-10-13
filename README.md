@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/akshataik05/DSA_LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshataik05/DSA_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Shortest Path
 |  |
