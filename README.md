@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/akshataik05/DSA_LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/akshataik05/DSA_LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/akshataik05/DSA_LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
