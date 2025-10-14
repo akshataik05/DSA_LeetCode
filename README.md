@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/akshataik05/DSA_LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshataik05/DSA_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshataik05/DSA_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/akshataik05/DSA_LeetCode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshataik05/DSA_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshataik05/DSA_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
