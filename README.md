@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/akshataik05/DSA_LeetCode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/akshataik05/DSA_LeetCode/tree/master/3396-valid-word) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/akshataik05/DSA_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/akshataik05/DSA_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshataik05/DSA_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
 |  |
