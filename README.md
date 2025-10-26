@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/akshataik05/DSA_LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/akshataik05/DSA_LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/akshataik05/DSA_LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/akshataik05/DSA_LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2169-simple-bank-system) |
 | [3336-water-bottles-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
