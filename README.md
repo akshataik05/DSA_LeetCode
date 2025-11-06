@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshataik05/DSA_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshataik05/DSA_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/akshataik05/DSA_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/akshataik05/DSA_LeetCode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/akshataik05/DSA_LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -439,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
