@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2915-count-of-interesting-subarrays](https://github.com/akshataik05/DSA_LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshataik05/DSA_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshataik05/DSA_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/akshataik05/DSA_LeetCode/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/akshataik05/DSA_LeetCode/tree/master/3396-valid-word) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshataik05/DSA_LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshataik05/DSA_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshataik05/DSA_LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshataik05/DSA_LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3647-zero-array-transformation-iii) |
