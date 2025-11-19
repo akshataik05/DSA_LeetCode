@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/akshataik05/DSA_LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/akshataik05/DSA_LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshataik05/DSA_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akshataik05/DSA_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
