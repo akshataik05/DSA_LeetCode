@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/akshataik05/DSA_LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshataik05/DSA_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/akshataik05/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/akshataik05/DSA_LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshataik05/DSA_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akshataik05/DSA_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
