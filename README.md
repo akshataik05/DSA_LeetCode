@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akshataik05/DSA_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshataik05/DSA_LeetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/akshataik05/DSA_LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshataik05/DSA_LeetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/akshataik05/DSA_LeetCode/tree/master/3797-design-spreadsheet) |
