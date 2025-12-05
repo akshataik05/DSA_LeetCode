@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshataik05/DSA_LeetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3479-fruits-into-baskets-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshataik05/DSA_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3479-fruits-into-baskets-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3479-fruits-into-baskets-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3678-design-task-manager](https://github.com/akshataik05/DSA_LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/akshataik05/DSA_LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/akshataik05/DSA_LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3479-fruits-into-baskets-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akshataik05/DSA_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Stack
 |  |
