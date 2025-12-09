@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/akshataik05/DSA_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
+| [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/akshataik05/DSA_LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/akshataik05/DSA_LeetCode/tree/master/0037-sudoku-solver) |
+| [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshataik05/DSA_LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/akshataik05/DSA_LeetCode/tree/master/0830-largest-triangle-area) |
 | [0837-new-21-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0837-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
