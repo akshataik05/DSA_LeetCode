@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshataik05/DSA_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/akshataik05/DSA_LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/akshataik05/DSA_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshataik05/DSA_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshataik05/DSA_LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akshataik05/DSA_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/akshataik05/DSA_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/akshataik05/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/akshataik05/DSA_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshataik05/DSA_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/akshataik05/DSA_LeetCode/tree/master/2625-increment-submatrices-by-one) |
