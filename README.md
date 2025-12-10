@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/akshataik05/DSA_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/akshataik05/DSA_LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2429-design-a-food-rating-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2438-range-product-queries-of-powers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2438-range-product-queries-of-powers) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/akshataik05/DSA_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/akshataik05/DSA_LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2438-range-product-queries-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -669,5 +671,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/akshataik05/DSA_LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
