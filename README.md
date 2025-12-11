@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/akshataik05/DSA_LeetCode/tree/master/3194-find-words-containing-character) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshataik05/DSA_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/akshataik05/DSA_LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshataik05/DSA_LeetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
