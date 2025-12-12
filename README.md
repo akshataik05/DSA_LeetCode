@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akshataik05/DSA_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/akshataik05/DSA_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshataik05/DSA_LeetCode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/akshataik05/DSA_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-sort-matrix-by-diagonals](https://github.com/akshataik05/DSA_LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3531-count-covered-buildings](https://github.com/akshataik05/DSA_LeetCode/tree/master/3531-count-covered-buildings) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/akshataik05/DSA_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshataik05/DSA_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/akshataik05/DSA_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
