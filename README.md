@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
