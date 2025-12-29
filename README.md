@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akshataik05/DSA_LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0869-reordered-power-of-2](https://github.com/akshataik05/DSA_LeetCode/tree/master/0869-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/akshataik05/DSA_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshataik05/DSA_LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/akshataik05/DSA_LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshataik05/DSA_LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
