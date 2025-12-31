@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/akshataik05/DSA_LeetCode/tree/master/3194-find-words-containing-character) |
+| [3227-vowels-game-in-a-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshataik05/DSA_LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/akshataik05/DSA_LeetCode/tree/master/3396-valid-word) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3321-type-of-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3336-water-bottles-ii) |
@@ -775,5 +777,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/akshataik05/DSA_LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [3227-vowels-game-in-a-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshataik05/DSA_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
