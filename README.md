@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akshataik05/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/akshataik05/DSA_LeetCode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/akshataik05/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshataik05/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0118-pascals-triangle) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akshataik05/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/0326-power-of-three) |
