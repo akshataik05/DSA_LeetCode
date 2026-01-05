@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/akshataik05/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshataik05/DSA_LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/akshataik05/DSA_LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/akshataik05/DSA_LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshataik05/DSA_LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshataik05/DSA_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/akshataik05/DSA_LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/akshataik05/DSA_LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/akshataik05/DSA_LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshataik05/DSA_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1975-maximum-matrix-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshataik05/DSA_LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akshataik05/DSA_LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshataik05/DSA_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
