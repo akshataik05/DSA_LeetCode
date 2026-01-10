@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akshataik05/DSA_LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshataik05/DSA_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshataik05/DSA_LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshataik05/DSA_LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshataik05/DSA_LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/akshataik05/DSA_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0837-new-21-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0837-new-21-game) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
