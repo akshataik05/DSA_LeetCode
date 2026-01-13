@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/akshataik05/DSA_LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
