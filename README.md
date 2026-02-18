@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/akshataik05/DSA_LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/akshataik05/DSA_LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
