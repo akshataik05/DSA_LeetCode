@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshataik05/DSA_LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/0761-special-binary-string) |
 | [0868-push-dominoes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshataik05/DSA_LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshataik05/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/0761-special-binary-string) |
 | [0869-reordered-power-of-2](https://github.com/akshataik05/DSA_LeetCode/tree/master/0869-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/akshataik05/DSA_LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -863,5 +865,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/akshataik05/DSA_LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
