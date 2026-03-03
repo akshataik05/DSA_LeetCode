@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/akshataik05/DSA_LeetCode/tree/master/0037-sudoku-solver) |
+| [0357-count-numbers-with-unique-digits](https://github.com/akshataik05/DSA_LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/akshataik05/DSA_LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/akshataik05/DSA_LeetCode/tree/master/0120-triangle) |
+| [0357-count-numbers-with-unique-digits](https://github.com/akshataik05/DSA_LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0474-ones-and-zeroes](https://github.com/akshataik05/DSA_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshataik05/DSA_LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/akshataik05/DSA_LeetCode/tree/master/0799-champagne-tower) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akshataik05/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshataik05/DSA_LeetCode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/akshataik05/DSA_LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/akshataik05/DSA_LeetCode/tree/master/0830-largest-triangle-area) |
 | [0837-new-21-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0837-new-21-game) |
