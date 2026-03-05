@@ -8,13 +8,13 @@ class Solution
         {
             if(i % 2 == 0)
             {
-                if(s.charAt(i) != '0') change1++;
-                if(s.charAt(i) != '1') change2++;
+                if(s.charAt(i) == '0') change1++;
+                if(s.charAt(i) == '1') change2++;
             }
             else
             {
-                if(s.charAt(i) != '1') change1++;
-                if(s.charAt(i) != '0') change2++;
+                if(s.charAt(i) == '1') change1++;
+                if(s.charAt(i) == '0') change2++;
             }
         }
         return Math.min(change1, change2);
