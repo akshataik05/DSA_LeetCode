@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/akshataik05/DSA_LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshataik05/DSA_LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/akshataik05/DSA_LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/akshataik05/DSA_LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/akshataik05/DSA_LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1813-maximum-erasure-value](https://github.com/akshataik05/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1980-find-unique-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshataik05/DSA_LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshataik05/DSA_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akshataik05/DSA_LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshataik05/DSA_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshataik05/DSA_LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshataik05/DSA_LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/akshataik05/DSA_LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1980-find-unique-binary-string](https://github.com/akshataik05/DSA_LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshataik05/DSA_LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshataik05/DSA_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akshataik05/DSA_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
