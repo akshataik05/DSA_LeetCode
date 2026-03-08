@@ -8,9 +8,13 @@ class Solution
         {
             char ch=nums[i].charAt(i);
             if(ch=='0')
+            {
                 result.append('1');
+            }
             else
+            {
                 result.append('0');
+            }
         }
         return result.toString();
     }
