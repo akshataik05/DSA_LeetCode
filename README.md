@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/akshataik05/DSA_LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/akshataik05/DSA_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshataik05/DSA_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshataik05/DSA_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshataik05/DSA_LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshataik05/DSA_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshataik05/DSA_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/akshataik05/DSA_LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akshataik05/DSA_LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akshataik05/DSA_LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1895-largest-magic-square](https://github.com/akshataik05/DSA_LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshataik05/DSA_LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1975-maximum-matrix-sum) |
