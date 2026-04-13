@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/akshataik05/DSA_LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/akshataik05/DSA_LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1813-maximum-erasure-value](https://github.com/akshataik05/DSA_LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/akshataik05/DSA_LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/akshataik05/DSA_LeetCode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1895-largest-magic-square](https://github.com/akshataik05/DSA_LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshataik05/DSA_LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
