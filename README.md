@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/akshataik05/DSA_LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3161-block-placement-queries](https://github.com/akshataik05/DSA_LeetCode/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshataik05/DSA_LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/akshataik05/DSA_LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/akshataik05/DSA_LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshataik05/DSA_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akshataik05/DSA_LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3161-block-placement-queries](https://github.com/akshataik05/DSA_LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akshataik05/DSA_LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshataik05/DSA_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3453-separate-squares-i) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/akshataik05/DSA_LeetCode/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/akshataik05/DSA_LeetCode/tree/master/3161-block-placement-queries) |
 | [3479-fruits-into-baskets-iii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/akshataik05/DSA_LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -956,4 +959,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshataik05/DSA_LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/akshataik05/DSA_LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
